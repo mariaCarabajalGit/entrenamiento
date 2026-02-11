@@ -1,1 +1,2 @@
 # entrenamiento
+echo "Chau git"
